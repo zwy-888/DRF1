@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30440c6f-b3f7-4187-8413-421cc408d0f2" name="Default Changelist" comment="" />
+    <list default="true" id="30440c6f-b3f7-4187-8413-421cc408d0f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/287a9834-9340-4564-9ac0-34f46bea5d92.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/287a9834-9340-4564-9ac0-34f46bea5d92.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app1/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +46,9 @@
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Api" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -47,7 +56,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hGyoQejDx0f1sExcSAjtWSdadt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -57,8 +70,9 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yan_ems" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/drf_day1" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
@@ -66,7 +80,7 @@
       <recent name="F:\python-projects\Api\app1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tests">
+  <component name="RunManager" selected="Django server.Api">
     <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Api" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,6 +133,9 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,SHOW_INHERITED" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -135,6 +152,10 @@
       <workItem from="1599656463652" duration="2497000" />
       <workItem from="1599701314214" duration="3625000" />
       <workItem from="1599721358156" duration="19075000" />
+      <workItem from="1599786141047" duration="2651000" />
+      <workItem from="1599805351078" duration="4575000" />
+      <workItem from="1599910679405" duration="1806000" />
+      <workItem from="1599991213741" duration="10007000" />
     </task>
     <servers />
   </component>
@@ -150,26 +171,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="417" y="125" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599652777147" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1599745690890">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1599997567727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599745690890" />
-    <state width="1323" height="21" key="GridCell.Tab.0.bottom" timestamp="1599751500434">
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599997567727" />
+    <state width="1323" height="319" key="GridCell.Tab.0.bottom" timestamp="1600006187451">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="21" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599751500434" />
-    <state width="1323" height="21" key="GridCell.Tab.0.center" timestamp="1599751500434">
+    <state width="1323" height="319" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600006187451" />
+    <state width="1323" height="319" key="GridCell.Tab.0.center" timestamp="1600006187451">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="21" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599751500434" />
-    <state width="1323" height="21" key="GridCell.Tab.0.left" timestamp="1599751500434">
+    <state width="1323" height="319" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600006187451" />
+    <state width="1323" height="319" key="GridCell.Tab.0.left" timestamp="1600006187451">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="21" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599751500434" />
-    <state width="1323" height="21" key="GridCell.Tab.0.right" timestamp="1599751500434">
+    <state width="1323" height="319" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600006187451" />
+    <state width="1323" height="319" key="GridCell.Tab.0.right" timestamp="1600006187451">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="21" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599751500434" />
+    <state width="1323" height="319" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600006187451" />
+    <state width="1323" height="259" key="GridCell.Tab.1.bottom" timestamp="1599795560374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="259" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599795560374" />
+    <state width="1323" height="259" key="GridCell.Tab.1.center" timestamp="1599795560373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="259" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599795560373" />
+    <state width="1323" height="259" key="GridCell.Tab.1.left" timestamp="1599795560373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="259" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599795560373" />
+    <state width="1323" height="259" key="GridCell.Tab.1.right" timestamp="1599795560373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="259" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599795560373" />
     <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1599740085803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -178,16 +215,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599654240893" />
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1599721358991">
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1599991212363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599721358991" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599991212363" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599722001994">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599722001994" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Api$tests.coverage" NAME="tests Coverage Results" MODIFIED="1599751325237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app1" />
+    <SUITE FILE_PATH="coverage/Api$tests.coverage" NAME="tests Coverage Results" MODIFIED="1599792607825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app1" />
   </component>
 </project>
