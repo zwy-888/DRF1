@@ -175,7 +175,9 @@ class UserAPIView(APIView):
         pwd = user_obj.get("pwd")
         email = user_obj.get("email")
         print(username, pwd, email, id)
-        a = User.objects.filter(id=id).first()
+        a = User.objects.filter(id=id).first()  # 得到的是model少去first()得到的是queryset不能用
+        print(User.objects.filter(id=id).values(), "hhh")  # QuerySet
+        print(User.objects.filter(id=id).values().first(), "ddd")  # 直接得到字典
         print(type(a))
         a.username = username
         a.password = pwd
